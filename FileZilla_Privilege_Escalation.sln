@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileZilla_Privilege_Escalation", "FileZilla_Privilege_Escalation\FileZilla_Privilege_Escalation.csproj", "{309A1A40-1B8A-46D8-88F7-4F731EFCA1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309A1A40-1B8A-46D8-88F7-4F731EFCA1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309A1A40-1B8A-46D8-88F7-4F731EFCA1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309A1A40-1B8A-46D8-88F7-4F731EFCA1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309A1A40-1B8A-46D8-88F7-4F731EFCA1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DDB0F7A-E5E2-4516-9A12-E3743DBD4C61}
+	EndGlobalSection
+EndGlobal
